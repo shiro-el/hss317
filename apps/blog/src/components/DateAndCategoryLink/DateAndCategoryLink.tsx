@@ -10,16 +10,6 @@ function DateAndCategoryLink({ date, category }: Props) {
   return (
     <>
       {date}
-      {category && (
-        <>
-          {' '}
-          at{' '}
-          <Link as={NextLink} href={`/category/${category}`} color="primary">
-            {category}
-          </Link>{' '}
-          category
-        </>
-      )}
     </>
   );
 }

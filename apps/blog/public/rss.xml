@@ -6,388 +6,67 @@
     version="2.0"
   >
     <channel>
-        <title><![CDATA[Comet log]]></title>
-        <link>https://comet-land-blog.vercel.app</link>
+        <title><![CDATA[HSS 317]]></title>
+        <link></link>
         <description>
-          <![CDATA[I like to share my knowledge.]]>
+          <![CDATA[프랑스 문학의 이해 개인 과제입니다.]]>
         </description>
         <language>en</language>
-        <lastBuildDate>2022-03-26</lastBuildDate>
+        <lastBuildDate>2025-06-03</lastBuildDate>
         <item>
-    <title><![CDATA[Comet land guide]]></title>
-    <link>https://comet-land-blog.vercel.app/how-to-start</link>
-    <pubDate>2022-03-26</pubDate>
-    <guid isPermaLink="false">https://comet-land-blog.vercel.app/how-to-start</guid>
+    <title><![CDATA[실존의 무의미와 희망의 부재]]></title>
+    <link>/essay</link>
+    <pubDate>2025-06-03</pubDate>
+    <guid isPermaLink="false">/essay</guid>
     <description>
-    <![CDATA[how to start]]>
+    <![CDATA[카뮈와 베케트 작품에 나타난 부조리 철학]]>
     </description>
     <content:encoded>
-      <![CDATA[<p><a href="https://lgtm.com/projects/g/hyesungoh/comet-land/alerts/" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/lgtm/alerts/g/hyesungoh/comet-land.svg?logo=lgtm&#x26;logoWidth=18" alt="Total alerts"></a> <a href="https://lgtm.com/projects/g/hyesungoh/comet-land/context:javascript" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/lgtm/grade/javascript/g/hyesungoh/comet-land.svg?logo=lgtm&#x26;logoWidth=18" alt="Language grade: JavaScript"></a> <a href="https://github.com/hyesungoh/comet-land/actions/workflows/CI.yml" target="_blank" rel="noopener noreferer"><img src="https://github.com/hyesungoh/comet-land/actions/workflows/CI.yml/badge.svg" alt="Continious Intergration"></a> <a href="https://codecov.io/gh/hyesungoh/comet-land" target="_blank" rel="noopener noreferer"><img src="https://codecov.io/gh/hyesungoh/comet-land/branch/main/graph/badge.svg?token=TA7LT3RQ1P" alt="codecov"></a> <a href="https://dashboard.cypress.io/projects/yiddyz/runs" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/yiddyz&#x26;style=flat&#x26;logo=cypress" alt="blog"></a> <a href="https://dashboard.cypress.io/projects/inc4yo/runs" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/inc4yo&#x26;style=flat&#x26;logo=cypress" alt="resume"></a></p>
-<p><img src="https://user-images.githubusercontent.com/26461307/159371599-95b2acd5-e5eb-482c-9ead-d8f601f034b5.png" alt="comet-land-blog"></p>
-<h3 id="blog-demo"><a href="https://comet-land-blog.vercel.app/" target="_blank" rel="noopener noreferer">BLOG DEMO</a></h3>
-<p><img src="https://user-images.githubusercontent.com/26461307/160653172-c56a3b64-dfa9-4708-bf95-fca2fff47964.png" alt="comet-land-resume"></p>
-<h3 id="resume-demo"><a href="https://comet-land-resume.vercel.app/" target="_blank" rel="noopener noreferer">RESUME DEMO</a></h3>
-<p>Blog and Resume template with turborepo</p>
-<p>한국어 문서는 <a href="https://github.com/hyesungoh/hyesungoh-land/tree/main/_docs/ko-readme.md" target="_blank" rel="noopener noreferer">다음 링크</a>에서 확인하실 수 있습니다.</p>
-<h2 id="blog-feature" class="heading">Blog Feature</h2>
-<p><img src="https://user-images.githubusercontent.com/26461307/159372336-e42c1a9c-9915-4d05-9e51-4882d681dc80.gif" alt="postGif"></p>
-<ul>
-<li>👔 Code highlight with line-highlight, line-numbers</li>
-<li>🎨 Design with <a href="https://nextui.org/" target="_blank" rel="noopener noreferer">NextUI</a></li>
-<li>🍽 Table of contents</li>
-<li>🎩 Dark mode</li>
-</ul>
-<p><img src="https://user-images.githubusercontent.com/26461307/159372344-d628b817-d7f5-4322-813e-3468a62e79d6.gif" alt="kbarGif"></p>
-<ul>
-<li>⌨️ Search with <a href="https://kbar.vercel.app/" target="_blank" rel="noopener noreferer">KBar</a></li>
-<li>🔨 Configurable</li>
-<li>🔊 <a href="https://utteranc.es/" target="_blank" rel="noopener noreferer">Utterances</a> Comment</li>
-<li>🔭 Google Analytics</li>
-<li>🔥 Hotjar</li>
-<li>🏄 Lighthouse score</li>
-</ul>
-<p><img src="https://user-images.githubusercontent.com/26461307/161536154-b85caf9f-0f73-4224-a1e7-540723916ff7.gif" alt="blog lighthouse score"></p>
-<h2 id="resume-feature" class="heading">Resume Feature</h2>
-<ul>
-<li>🎨 Design with <a href="https://nextui.org/" target="_blank" rel="noopener noreferer">NextUI</a></li>
-<li>🎩 Dark mode</li>
-<li>⌨️ Contact with <a href="https://kbar.vercel.app/" target="_blank" rel="noopener noreferer">KBar</a></li>
-<li>🔨 Configurable</li>
-<li>🔭 Google Analytics</li>
-<li>🔥 Hotjar</li>
-<li>🏄 Lighthouse score</li>
-</ul>
-<p><img src="https://user-images.githubusercontent.com/26461307/161536162-63278484-ca52-42ed-89d4-951cd31e42c1.gif" alt="resume lighthouse score"></p>
-<h2 id="how-to-start" class="heading">How to start</h2>
-<p><code>comet-land</code> has own generate package <a href="https://github.com/hyesungoh/create-comet-land" target="_blank" rel="noopener noreferer"><code>create-comet-land</code></a></p>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line">npx create-comet-land
-</span><span class="code-line"><span class="token comment"># or</span>
-</span><span class="code-line"><span class="token function">yarn</span> create comet-land
-</span></code></pre>
-<blockquote>
-<p>Or using Fork or clone this repo</p>
-</blockquote>
-<ol>
-<li>Install dependencies</li>
-</ol>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">yarn</span>
-</span></code></pre>
-<ol start="2">
-<li>Start Turbo !</li>
-</ol>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">yarn</span> turbo run dev
-</span><span class="code-line"><span class="token comment"># or just</span>
-</span><span class="code-line"><span class="token function">yarn</span> dev
-</span></code></pre>
-<ol start="4">
-<li>Now you can see blog at <code>localhost:3000</code>, resume at <code>localhost:3001</code></li>
-</ol>
-<h2 id="how-to-configuration" class="heading">How to configuration</h2>
-<p>Please see <code>packages/core/constants</code> directory.</p>
-<p>and you can reconfigure at that directory's variable</p>
-<ul>
-<li>Analytics directory
-<ul>
-<li>GA ID</li>
-<li>Hotjar ID</li>
-</ul>
-</li>
-<li>Colors directory
-<ul>
-<li>color schema</li>
-</ul>
-</li>
-<li>General directory
-<ul>
-<li>author image</li>
-<li>default open-graph image</li>
-<li>favicon</li>
-</ul>
-</li>
-<li>SocialMedia directory
-<ul>
-<li>github</li>
-<li>instagram</li>
-<li>facebook</li>
-<li>linkedin</li>
-<li>twitter</li>
-</ul>
-</li>
-</ul>
-<p>and please check <code>apps/blog/_config/index.json</code> and <code>apps/resume/_config/index.json</code>.</p>
-<p>This files are placing each app's configuration variable.</p>
-<h2 id="how-to-use-it" class="heading">How to use it</h2>
-<p>please read following link.</p>
-<ul>
-<li><a href="https://github.com/hyesungoh/hyesungoh-land/tree/main/_docs/en-blog.md" target="_blank" rel="noopener noreferer">how to add blog post</a></li>
-<li><a href="https://github.com/hyesungoh/hyesungoh-land/tree/main/_docs/en-resume.md" target="_blank" rel="noopener noreferer">how to custom resume</a></li>
-</ul>
-<h2 id="how-to-deploy-with-vercel" class="heading">How to deploy with vercel</h2>
-<h3 id="1-import-git-repository">1. Import git repository</h3>
-<p><img src="https://user-images.githubusercontent.com/26461307/177278351-7b82fcbe-e6db-46bd-93f4-10e8524ef2bf.gif" alt="deploy step 1"></p>
-<h3 id="2-select-framework-preset-to-nextjs">2. Select framework preset to <code>Next.js</code></h3>
-<p><img src="https://user-images.githubusercontent.com/26461307/177278363-509b3d69-f692-4458-8bc2-62173eef5e7e.gif" alt="deploy step 2"></p>
-<h3 id="3-set-root-directory-to-appsblog-or-appsresume">3. Set root directory to <code>apps/blog</code> or <code>apps/resume</code></h3>
-<p><img src="https://user-images.githubusercontent.com/26461307/177278370-1651b4d7-e561-44df-8a62-a283450773d9.gif" alt="deploy step 3"></p>
-<h3 id="4-set-build-command">4. Set build command</h3>
-<p><img src="https://user-images.githubusercontent.com/26461307/177278380-659ba348-7952-4875-9e19-0a006ad57c1a.gif" alt="deploy step 4"></p>
-<ul>
-<li>blog build command</li>
-</ul>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token builtin class-name">cd</span> <span class="token punctuation">..</span>/<span class="token punctuation">..</span> <span class="token operator">&#x26;&#x26;</span> npx turbo run build --scope<span class="token operator">=</span>blog --include-dependencies --no-deps
-</span></code></pre>
-<ul>
-<li>resume build command</li>
-</ul>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token builtin class-name">cd</span> <span class="token punctuation">..</span>/<span class="token punctuation">..</span> <span class="token operator">&#x26;&#x26;</span> npx turbo run build --scope<span class="token operator">=</span>resume --include-dependencies --no-deps
-</span></code></pre>
-<h3 id="5-click-the-deploy-button-">5. Click the Deploy button! 🎉</h3>
-<p><img src="https://user-images.githubusercontent.com/26461307/177278617-82982395-d1fc-46f1-8f96-f7cb7bae95d9.png" alt="click the deploy button"></p>
-<h3 id="more-information">More information</h3>
-<p>This project using <code>turborepo</code>.</p>
-<p>so, you can find more information at this <a href="https://vercel.com/docs/concepts/monorepos/turborepo" target="_blank" rel="noopener noreferer">vercel guide</a>.</p>
-<h2 id="how-to-add-more-packages" class="heading">How to add more packages</h2>
-<ul>
-<li>scope packages</li>
-</ul>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token builtin class-name">cd</span> where-you-want
-</span><span class="code-line"><span class="token function">yarn</span> <span class="token function">add</span> package-name
-</span></code></pre>
-<ul>
-<li>global packages</li>
-</ul>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">yarn</span> <span class="token function">add</span> package-name -W
-</span></code></pre>
-<ul>
-<li>global dev packages</li>
-</ul>
-<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line"><span class="token function">yarn</span> <span class="token function">add</span> package-name -DW
-</span></code></pre>
-<h2 id="trouble-shootings" class="heading">Trouble shootings</h2>
-<p>check <a href="https://github.com/hyesungoh/comet-land/wiki/Trouble-Shooting" target="_blank" rel="noopener noreferer">this wiki</a> please! it might be help</p>
-<h2 id="use-case" class="heading">Use Case</h2>
-<ul>
-<li><a href="https://github.com/hyesungoh/hyesungoh.xyz" target="_blank" rel="noopener noreferer">hyesungoh.xyz</a></li>
-</ul>
-<h2 id="inspired" class="heading">Inspired</h2>
-<p>I inspired below blogs and resume.</p>
-<ul>
-<li><a href="https://overreacted.io/" target="_blank" rel="noopener noreferer">Overreacted</a></li>
-<li><a href="https://yceffort.kr/" target="_blank" rel="noopener noreferer">Yceffort</a></li>
-<li><a href="https://gatsby-starter-bee.netlify.app/" target="_blank" rel="noopener noreferer">gatsby-starter-bee</a></li>
-<li><a href="https://vallista.kr/" target="_blank" rel="noopener noreferer">vallista-land</a></li>
-<li><a href="https://hyunseob.github.io/resume/" target="_blank" rel="noopener noreferer">hyunseob.github.io/resume</a></li>
-</ul>
-<h2 id="license" class="heading">License</h2>
-<p>MIT</p>]]>
-    </content:encoded>
-  </item><item>
-    <title><![CDATA[Markdown Examples]]></title>
-    <link>https://comet-land-blog.vercel.app/markdown</link>
-    <pubDate>2022-03-01</pubDate>
-    <guid isPermaLink="false">https://comet-land-blog.vercel.app/markdown</guid>
-    <description>
-    <![CDATA[example for writing markdown]]>
-    </description>
-    <content:encoded>
-      <![CDATA[<h2 id="h2-heading" class="heading">h2 heading</h2>
-<h3 id="h3-heading">h3 heading</h3>
-<h4 id="h4-heading">h4 heading</h4>
-<h5 id="h5-heading">h5 heading</h5>
-<h6 id="h6-heading">h6 heading</h6>
-<h2 id="emphasis" class="heading">Emphasis</h2>
-<p><strong>This is bold text</strong></p>
-<p><em>This is italic text</em></p>
-<p><del>this is delete</del></p>
-<h2 id="blockquotes" class="heading">Blockquotes</h2>
-<blockquote>
-<p>Develop. Preview. Ship. – Vercel</p>
-</blockquote>
-<h3 id="nested">nested</h3>
-<blockquote>
-<blockquote>
-<p>great power comes great responsibility</p>
-<p>— at spider man</p>
-</blockquote>
-<p>This is <strong>awesome</strong>.</p>
-<p>— hyesungoh</p>
-</blockquote>
-<h2 id="lists" class="heading">Lists</h2>
-<p>Unordered</p>
-<ul>
-<li>Lorem ipsum dolor.
-<ul>
-<li>foo
-<ul>
-<li>bar</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>sit amet consectetur adipisicing elit.</li>
-<li>Iure, delectus.</li>
-</ul>
-<p>Ordered</p>
-<ol>
-<li>Lorem ipsum dolor.
-<ol>
-<li>lorem
-<ol>
-<li>foo</li>
-</ol>
-</li>
-</ol>
-</li>
-<li>sit amet consectetur adipisicing elit.</li>
-<li>Iure, delectus.</li>
-</ol>
-<h2 id="code" class="heading">Code</h2>
-<p>Inline <code>code</code></p>
-<pre class="language-js"><code class="language-js code-highlight"><span class="code-line"><span class="token keyword module">import</span> <span class="token imports">styled</span> <span class="token keyword module">from</span> <span class="token string">'@emotion/styled'</span><span class="token punctuation">;</span>
-</span><span class="code-line">
-</span><span class="code-line"><span class="token keyword module">export</span> <span class="token keyword module">default</span> <span class="token keyword">function</span> <span class="token function"><span class="token maybe-class-name">Foo</span></span><span class="token punctuation">(</span><span class="token parameter"><span class="token punctuation">{</span> bar <span class="token punctuation">}</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-</span><span class="code-line">  <span class="token keyword control-flow">return</span> <span class="token punctuation">(</span>
-</span><span class="code-line">    <span class="token operator">&#x3C;</span>div<span class="token operator">></span>
-</span><span class="code-line">      <span class="token operator">&#x3C;</span><span class="token constant">H1</span><span class="token operator">></span><span class="token maybe-class-name">Comet</span><span class="token operator">-</span>land<span class="token operator">&#x3C;</span><span class="token operator">/</span><span class="token constant">H1</span><span class="token operator">></span>
-</span><span class="code-line">    <span class="token operator">&#x3C;</span><span class="token operator">/</span>div<span class="token operator">></span>
-</span><span class="code-line">  <span class="token punctuation">)</span><span class="token punctuation">;</span>
-</span><span class="code-line"><span class="token punctuation">}</span>
-</span><span class="code-line">
-</span><span class="code-line"><span class="token keyword">const</span> <span class="token constant">H1</span> <span class="token operator">=</span> styled<span class="token punctuation">.</span><span class="token property-access">h1</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token css language-css">
-</span></span></span><span class="code-line"><span class="token template-string"><span class="token css language-css">  <span class="token property">color</span><span class="token punctuation">:</span> <span class="token color">red</span><span class="token punctuation">;</span>
-</span></span></span><span class="code-line"><span class="token template-string"><span class="token css language-css"></span><span class="token template-punctuation string">`</span></span><span class="token punctuation">;</span>
-</span></code></pre>
-<p>with line highlight</p>
-<pre class="language-js"><code class="language-js code-highlight"><span class="code-line highlight-line"><span class="token keyword module">import</span> <span class="token imports">styled</span> <span class="token keyword module">from</span> <span class="token string">'@emotion/styled'</span><span class="token punctuation">;</span>
-</span><span class="code-line">
-</span><span class="code-line"><span class="token keyword module">export</span> <span class="token keyword module">default</span> <span class="token keyword">function</span> <span class="token function"><span class="token maybe-class-name">Foo</span></span><span class="token punctuation">(</span><span class="token parameter"><span class="token punctuation">{</span> bar <span class="token punctuation">}</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-</span><span class="code-line">  <span class="token keyword control-flow">return</span> <span class="token punctuation">(</span>
-</span><span class="code-line">    <span class="token operator">&#x3C;</span>div<span class="token operator">></span>
-</span><span class="code-line">      <span class="token operator">&#x3C;</span><span class="token constant">H1</span><span class="token operator">></span><span class="token maybe-class-name">Comet</span><span class="token operator">-</span>land<span class="token operator">&#x3C;</span><span class="token operator">/</span><span class="token constant">H1</span><span class="token operator">></span>
-</span><span class="code-line">    <span class="token operator">&#x3C;</span><span class="token operator">/</span>div<span class="token operator">></span>
-</span><span class="code-line">  <span class="token punctuation">)</span><span class="token punctuation">;</span>
-</span><span class="code-line"><span class="token punctuation">}</span>
-</span><span class="code-line">
-</span><span class="code-line highlight-line"><span class="token keyword">const</span> <span class="token constant">H1</span> <span class="token operator">=</span> styled<span class="token punctuation">.</span><span class="token property-access">h1</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token css language-css">
-</span></span></span><span class="code-line highlight-line"><span class="token template-string"><span class="token css language-css">  <span class="token property">color</span><span class="token punctuation">:</span> <span class="token color">red</span><span class="token punctuation">;</span>
-</span></span></span><span class="code-line highlight-line"><span class="token template-string"><span class="token css language-css"></span><span class="token template-punctuation string">`</span></span><span class="token punctuation">;</span>
-</span></code></pre>
-<p>with line number</p>
-<pre class="language-js"><code class="language-js code-highlight"><span class="code-line line-number highlight-line" line="1"><span class="token keyword module">import</span> <span class="token imports">styled</span> <span class="token keyword module">from</span> <span class="token string">'@emotion/styled'</span><span class="token punctuation">;</span>
-</span><span class="code-line line-number" line="2">
-</span><span class="code-line line-number highlight-line" line="3"><span class="token keyword module">export</span> <span class="token keyword module">default</span> <span class="token keyword">function</span> <span class="token function"><span class="token maybe-class-name">Foo</span></span><span class="token punctuation">(</span><span class="token parameter"><span class="token punctuation">{</span> bar <span class="token punctuation">}</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-</span><span class="code-line line-number" line="4">  <span class="token keyword control-flow">return</span> <span class="token punctuation">(</span>
-</span><span class="code-line line-number" line="5">    <span class="token operator">&#x3C;</span>div<span class="token operator">></span>
-</span><span class="code-line line-number" line="6">      <span class="token operator">&#x3C;</span><span class="token constant">H1</span><span class="token operator">></span><span class="token maybe-class-name">Comet</span><span class="token operator">-</span>land<span class="token operator">&#x3C;</span><span class="token operator">/</span><span class="token constant">H1</span><span class="token operator">></span>
-</span><span class="code-line line-number" line="7">    <span class="token operator">&#x3C;</span><span class="token operator">/</span>div<span class="token operator">></span>
-</span><span class="code-line line-number" line="8">  <span class="token punctuation">)</span><span class="token punctuation">;</span>
-</span><span class="code-line line-number" line="9"><span class="token punctuation">}</span>
-</span><span class="code-line line-number" line="10">
-</span><span class="code-line line-number" line="11"><span class="token keyword">const</span> <span class="token constant">H1</span> <span class="token operator">=</span> styled<span class="token punctuation">.</span><span class="token property-access">h1</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token css language-css">
-</span></span></span><span class="code-line line-number" line="12"><span class="token template-string"><span class="token css language-css">  <span class="token property">color</span><span class="token punctuation">:</span> <span class="token color">red</span><span class="token punctuation">;</span>
-</span></span></span><span class="code-line line-number" line="13"><span class="token template-string"><span class="token css language-css"></span><span class="token template-punctuation string">`</span></span><span class="token punctuation">;</span>
-</span></code></pre>
-<h2 id="links" class="heading">Links</h2>
-<ul>
-<li><a href="https://nextjs.org" target="_blank" rel="noopener noreferer">Next.js</a></li>
-<li><a href="http://vercel.com" target="_blank" rel="noopener noreferer">Vercel</a></li>
-</ul>
-<h3 id="autolink">Autolink</h3>
-<p><a href="http://www.example.com" target="_blank" rel="noopener noreferer">www.example.com</a>, <a href="https://example.com" target="_blank" rel="noopener noreferer">https://example.com</a>, and <a href="mailto:contact@example.com">contact@example.com</a>.</p>
-<h2 id="footnote" class="heading">Footnote</h2>
-<p>A note<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">1</a></sup></p>
-<h2 id="table" class="heading">Table</h2>
-<table>
-<thead>
-<tr>
-<th align="left">Syntax</th>
-<th align="center">Description</th>
-<th align="right">Test Text</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">Header</td>
-<td align="center">Title</td>
-<td align="right">Here's this</td>
-</tr>
-<tr>
-<td align="left">Paragraph</td>
-<td align="center">Text</td>
-<td align="right">And more</td>
-</tr>
-<tr>
-<td align="left">Strikethrough</td>
-<td align="center"></td>
-<td align="right"><del>Text</del></td>
-</tr>
-</tbody>
-</table>
-<h2 id="tasklist" class="heading">Tasklist</h2>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" disabled> to do</li>
-<li class="task-list-item"><input type="checkbox" checked disabled> done</li>
-</ul>
-<section data-footnotes class="footnotes"><h2 id="footnote-label" class="sr-only heading">Footnotes</h2>
-<ol>
-<li id="user-content-fn-1">
-<p>Big note. <a href="#user-content-fnref-1" data-footnote-backref class="data-footnote-backref" aria-label="Back to content">↩</a></p>
-</li>
-</ol>
-</section>]]>
-    </content:encoded>
-  </item><item>
-    <title><![CDATA[Support KBar]]></title>
-    <link>https://comet-land-blog.vercel.app/kbar-support</link>
-    <pubDate>2022-02-28</pubDate>
-    <guid isPermaLink="false">https://comet-land-blog.vercel.app/kbar-support</guid>
-    <description>
-    <![CDATA[please press CMD + K!]]>
-    </description>
-    <content:encoded>
-      <![CDATA[<p><strong>Comet-land</strong> support <a href="https://kbar.vercel.app/" target="_blank" rel="noopener noreferer">Kbar</a></p>
-<ul>
-<li>for searching post,</li>
-<li>visiting specific category,</li>
-<li>link to social media</li>
-</ul>
-<h2 id="hot-to-use-it" class="heading">hot to use it</h2>
-<p>just press <code>CMD + k</code></p>
-<blockquote>
-<p>window is <code>Cntl + K</code></p>
-</blockquote>]]>
-    </content:encoded>
-  </item><item>
-    <title><![CDATA[Foo]]></title>
-    <link>https://comet-land-blog.vercel.app/foo</link>
-    <pubDate>2022-01-01</pubDate>
-    <guid isPermaLink="false">https://comet-land-blog.vercel.app/foo</guid>
-    <description>
-    <![CDATA[foo foo foo]]>
-    </description>
-    <content:encoded>
-      <![CDATA[<h2 id="foo" class="heading">foo</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore aperiam deserunt est doloremque nulla iure fugiat earum similique assumenda, eius eum, magni impedit non asperiores ex ut, alias necessitatibus quae commodi quod aspernatur deleniti consectetur obcaecati. Laboriosam esse minima quia, ratione iusto pariatur libero itaque totam non temporibus doloribus dignissimos porro cupiditate quo tempore neque iure dolores illum magnam? Cum nostrum facere voluptatem accusamus aliquam doloribus odio provident, tempore, assumenda praesentium maxime quae architecto inventore tenetur nam tempora enim minus modi sequi? Fuga quidem fugit totam ex earum! Distinctio nulla tempore perspiciatis aut quasi non dolorum laborum ipsum, exercitationem mollitia.</p>
-<h2 id="foofoo" class="heading">foofoo</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore aperiam deserunt est doloremque nulla iure fugiat earum similique assumenda, eius eum, magni impedit non asperiores ex ut, alias necessitatibus quae commodi quod aspernatur deleniti consectetur obcaecati. Laboriosam esse minima quia, ratione iusto pariatur libero itaque totam non temporibus doloribus dignissimos porro cupiditate quo tempore neque iure dolores illum magnam? Cum nostrum facere voluptatem accusamus aliquam doloribus odio provident, tempore, assumenda praesentium maxime quae architecto inventore tenetur nam tempora enim minus modi sequi? Fuga quidem fugit totam ex earum! Distinctio nulla tempore perspiciatis aut quasi non dolorum laborum ipsum, exercitationem mollitia.</p>
-<h2 id="foofoofoo" class="heading">foofoofoo</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore aperiam deserunt est doloremque nulla iure fugiat earum similique assumenda, eius eum, magni impedit non asperiores ex ut, alias necessitatibus quae commodi quod aspernatur deleniti consectetur obcaecati. Laboriosam esse minima quia, ratione iusto pariatur libero itaque totam non temporibus doloribus dignissimos porro cupiditate quo tempore neque iure dolores illum magnam? Cum nostrum facere voluptatem accusamus aliquam doloribus odio provident, tempore, assumenda praesentium maxime quae architecto inventore tenetur nam tempora enim minus modi sequi? Fuga quidem fugit totam ex earum! Distinctio nulla tempore perspiciatis aut quasi non dolorum laborum ipsum, exercitationem mollitia.</p>]]>
-    </content:encoded>
-  </item><item>
-    <title><![CDATA[Bar]]></title>
-    <link>https://comet-land-blog.vercel.app/bar</link>
-    <pubDate>2021-12-01</pubDate>
-    <guid isPermaLink="false">https://comet-land-blog.vercel.app/bar</guid>
-    <description>
-    <![CDATA[bar bar bar]]>
-    </description>
-    <content:encoded>
-      <![CDATA[<h2 id="bar" class="heading">bar</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore aperiam deserunt est doloremque nulla iure fugiat earum similique assumenda, eius eum, magni impedit non asperiores ex ut, alias necessitatibus quae commodi quod aspernatur deleniti consectetur obcaecati. Laboriosam esse minima quia, ratione iusto pariatur libero itaque totam non temporibus doloribus dignissimos porro cupiditate quo tempore neque iure dolores illum magnam? Cum nostrum facere voluptatem accusamus aliquam doloribus odio provident, tempore, assumenda praesentium maxime quae architecto inventore tenetur nam tempora enim minus modi sequi? Fuga quidem fugit totam ex earum! Distinctio nulla tempore perspiciatis aut quasi non dolorum laborum ipsum, exercitationem mollitia.</p>
-<h2 id="barbar" class="heading">barbar</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore aperiam deserunt est doloremque nulla iure fugiat earum similique assumenda, eius eum, magni impedit non asperiores ex ut, alias necessitatibus quae commodi quod aspernatur deleniti consectetur obcaecati. Laboriosam esse minima quia, ratione iusto pariatur libero itaque totam non temporibus doloribus dignissimos porro cupiditate quo tempore neque iure dolores illum magnam? Cum nostrum facere voluptatem accusamus aliquam doloribus odio provident, tempore, assumenda praesentium maxime quae architecto inventore tenetur nam tempora enim minus modi sequi? Fuga quidem fugit totam ex earum! Distinctio nulla tempore perspiciatis aut quasi non dolorum laborum ipsum, exercitationem mollitia.</p>
-<h2 id="barbarbar" class="heading">barbarbar</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore aperiam deserunt est doloremque nulla iure fugiat earum similique assumenda, eius eum, magni impedit non asperiores ex ut, alias necessitatibus quae commodi quod aspernatur deleniti consectetur obcaecati. Laboriosam esse minima quia, ratione iusto pariatur libero itaque totam non temporibus doloribus dignissimos porro cupiditate quo tempore neque iure dolores illum magnam? Cum nostrum facere voluptatem accusamus aliquam doloribus odio provident, tempore, assumenda praesentium maxime quae architecto inventore tenetur nam tempora enim minus modi sequi? Fuga quidem fugit totam ex earum! Distinctio nulla tempore perspiciatis aut quasi non dolorum laborum ipsum, exercitationem mollitia.</p>]]>
+      <![CDATA[<p>20세기 두 차례의 세계대전을 거치며 인류는 전통적 가치체계의 붕괴를 경험했으며,
+이러한 혼란스러운 시대적 배경 속에서 등장한 부조리 철학은 인간 존재의 근본적 조건을 새롭게 조명했다.
+이 글에서는 이러한 부조리 철학을 문학적으로 형상화한 대표작들인 알베르 카뮈의 『이방인』과 사뮈엘 베케트의 『고도를 기다리며』를 통해서 인간 존재의 부조리성과 전통적인 의미와 가치가 상실된 현대인의 실존적 조건에 대하여 말해보고자 한다.</p>
+<h2 id="부조리-철학의-철학적-토대와-역사적-배경" class="heading">부조리 철학의 철학적 토대와 역사적 배경</h2>
+<p>'부조리'라는 개념은 단순한 문학적 수사가 아니라 20세기 실존철학의 핵심적 개념으로 자리잡았다. 카뮈는 그의 에세이『시시포스 신화(Le Mythe de Sisyphe)』에서 "참으로 진지한 철학적 문제는 오직 하나뿐이다. 그것은 바로 자살이다. 인생이 살 만한 가치가 있느냐 없느냐를 판단하는 것이야말로 철학의 근본문제에 답하는 것이다."라고 선언하며, 부조리를 삶의 의미에 대한 근본적 물음과 연결시켰다.
+부조리의 감정은 "인간과 그의 삶, 배우와 무대장치 사이의 절연"에서 발생한다. 이는 인간이 자신의 존재를 자신의 삶으로부터 단절된 채 경험하는 상태를 의미하며, 일상의 권태, 세계에 대한 낯설음, 그리고 자아의 불투명성 등이 부조리의 주요 징후들이다. 특히 근대 과학과 논리학의 발전은 인간의 우주적 중요성을 박탈했고, 이제까지 절대적이라고 여겨졌던 신에 대한 믿음조차 사라져가며 "인간의 운명이 무(無)를 향한 내리막길을 줄곧 걷고 있다"는 니체의 말처럼 흘러가고 있었다.</p>
+<h2 id="카뮈의-이방인-부조리한-인간의-전형" class="heading">카뮈의 『이방인』: 부조리한 인간의 전형</h2>
+<p>카뮈의 『이방인』에서 주인공 뫼르소는 부조리한 인간의 전형을 보여준다. 그는 어머니의 죽음에도 슬퍼하지 않고, 연인 마리와의 관계에서도 사랑이라는 감정을 부정하며, 결정적으로 명확한 동기 없이 아랍인을 죽이기까지 하였다. 이러한 뫼르소의 모습은 전통적인 감정과 윤리적 판단의 체계에서 벗어난 부조리한 인간의 존재 방식을 보여준다.
+뫼르소의 부조리는 세 가지 차원에서 이해할 수 있다. 첫째, 그는 세계에 대해 "반항"하는 존재이다. "반항은 삶에 가치를 부여한다. 한 생애 전체에 걸쳐 펼쳐져 있는 반항은 그 삶의 위대함을 회복시킨다."라는 카뮈의 말로 해석해보자면 뫼르소의 무관심과 냉담함은 사회의 관습과 기대에 대한 소극적 반항으로 해석될 수 있다.
+둘째, 뫼르소는 미래에 대한 희망을 거부한다. 사형을 앞둔 그가 사제의 구원 제안을 거부하는 장면은 이를 명확히 보여준다. 카뮈의 부조리 철학에서 "미래에 대한 희망"은 현재로부터의 도피이며 자유의 노예상태를 의미한다. 뫼르소는 이러한 도피를 거부하고 현재의 부조리한 상황을 직시한다.
+셋째, 뫼르소는 현재 순간에 대한 강렬한 "열정"을 보인다. 해변에서 느끼는 태양의 작열함, 마리의 육체에 대한 감각적 반응 등은 추상적 가치가 아닌 구체적 현실에 대한 몰입을 나타낸다. 카뮈는 "비록 비천한 것일지라도 육체는 나의 유일한 확신이다"라고 말하며, 형이상학적 영혼보다 구체적 육체의 우선성을 강조했다.</p>
+<h2 id="베케트의-고도를-기다리며-기다림과-놀이의-부조리" class="heading">베케트의 『고도를 기다리며』: 기다림과 놀이의 부조리</h2>
+<p>베케트의 『고도를 기다리며』는 다른 방식으로 부조리를 형상화한다. 두 주인공 블라디미르(디디)와 에스트라공(고고)은 결코 오지 않을 고도를 기다리며 시간을 보낸다. 이들의 기다림은 "존재하기 때문에 무엇인가 행하지 않으면 안 되며, 절대가치를 잃어버린 인간이 직면한 절망과 그럼에도 무언가를 영원히 기다린다는 부조리의 고뇌"를 표현한다.
+작품에서 '고도'의 정체는 명시되지 않는다. 베케트 자신도 "나도 모른다. 그것을 알았다면 작품 속에 그것을 밝혔을 것이다", "이 작품에서 신을 찾으려 하지 말라"라고 말하였다. 이러한 모호성은 의도적인 것으로, 고도는 끝까지 신, 구원, 희망, 죽음 등 다양하게 해석될 수 있는 존재의 상징으로써 남는다. 중요한 것은 고도가 무엇인지가 아니라 "기다린다"는 그 행위 자체이다.
+이 책을 한 문장으로 요약하자면, '나는 기다린다 고로 존재한다'로 요약할 수 있을 것이다.
+인간은 이 세상에 태어나 삶에 가치를 부여하고 그 가치를 추구하고 획득하기 위해 노력하며, 인간이 끊임없이 무엇인가를 희망한다는 것은 이러한 가치의 추구와 동일한 행동이다. 따라서 기다림은 존재하는 것이며, 희망이 없음은 절망이고 절망은 죽음인 것이다.
+하지만 기다림의 시간은 고통스럽다. 이를 해결하기 위해 두 주인공은 끊임없이 '놀이'를 한다. 말장난, 동문서답, 반복되는 동작들로 대표되는 이들의 놀이는 단순하게 보면 기다림의 지루함을 견디기 위한 생존 전략이라고 볼 수 있다.
+허나, 의지할 곳 없이 부조리한 세상에서 불확실한 존재로 살아가는 주인공들의 불안이라는 관점에서 본다면 불확실성에 대한 불안을 극복하고자 하는, 신이 없는 세상에서 신의 도움 없이 인간 스스로 삶의 가치와 존재를 찾고, 이를 통해 인간 스스로 존엄성을 회복한다는 방향으로도 해석할 수 다.있</p>
+<h2 id="시시포스의-신화와-부조리의-역설" class="heading">시시포스의 신화와 부조리의 역설</h2>
+<p>카뮈가 제시한 시시포스의 신화는 두 작품을 관통하는 부조리의 본질을 보여준다. 시시포스는 바위를 언덕 위로 굴려 올리지만 바위는 다시 굴러내린다. 이러한 무한한 반복은 부조리한 삶의 상징이다. 그러나 카뮈는 "언덕에서 굴러 내려가는 바위를 응시하는 시시포스의 시선 속에서 부조리의 역설"을 발견한다.
+부조리의 역설은 무의미한 반복 속에서도 삶의 의미를 창조할 수 있다는 것이다. "반복으로서 다가오는 부조리의 경험을 통해서 삶 자체의 의미를 회복"할 수 있다. 뫼르소가 죽음을 앞두고도 삶에 대한 강렬한 애착을 보이는 것, 블라디미르와 에스트라공이 절망적 상황에서도 계속 기다리며 놀이를 지속하는 것은 모두 이러한 부조리의 역설을 보여준다.</p>
+<h2 id="언어의-해체와-의사소통의-위기" class="heading">언어의 해체와 의사소통의 위기</h2>
+<p>두 작품 모두 언어의 위기를 다룬다. 『이방인』에서 뫼르소의 언어는 감정과 분리되어 있다. 그는 아랍인을 죽인 이유를 "태양 때문"이라고 답하며, 이러한 대답은 논리적 인과관계를 거부한다. 카뮈는 이를 통해 "의사소통의 수단이 없으므로 의사소통이란 것은 없다"는 언어에 대한 철학적 회의를 드러낸다.
+『고도를 기다리며』에서도 언어는 소통의 도구가 아니라 시간을 때우는 놀이가 된다. "횡설수설하는 일종의 말장난 형태"를 띠며, 대화의 조건인 '진전'과 '일관성'을 상실한다. 이러한 언어의 해체는 현대인의 의사소통 불가능성을 상징적으로 보여준다.</p>
+<h2 id="죽음의-문제와-실존적-선택" class="heading">죽음의 문제와 실존적 선택</h2>
+<p>두 작품 모두 죽음의 문제를 중심으로 전개된다. 『이방인』에서 뫼르소는 처형을 앞두고 있고, 『고도를 기다리며』에서 두 주인공은 반복적으로 자살을 논의한다. 그러나 이들의 죽음에 대한 태도는 다르다.
+뫼르소는 죽음을 운명으로 받아들이면서도 삶에 대한 강렬한 욕망을 보인다. 그는 사제의 구원 제안을 거부하며 "이 생의 풍요로움"에 대한 확신을 표현한다. 이는 카뮈가 말하는 부조리한 인간의 특징으로, 죽음의 확실성 앞에서도 삶을 긍정하는 태도이다.
+반면 블라디미르와 에스트라공의 자살 시도는 번번이 실패한다. 나무가 너무 약해서, 밧줄이 끊어져서 등의 이유로 자살은 계속 연기된다. 이는 안전(삶)을 위해 아무 짓도 않겠다는 결정은 죽을 수 없다는 의지를 정확하게 드러내며, 역설적으로 삶에 대한 의지를 확인시켜준다.</p>
+<h2 id="습관과-반복의-철학적-의미" class="heading">습관과 반복의 철학적 의미</h2>
+<p>두 작품에서 습관과 반복은 중요한 주제이다. 카뮈는 자살이 "습관의 가소로운 면, 살아야 할 심각한 이유의 결여, 법석을 떨어가며 살아가는 일상의 어처구니없는 성격"을 드러낸다고 했다. 뫼르소의 기계적인 일상과 무관심은 이러한 습관적 삶의 부조리를 보여준다.
+『고도를 기다리며』에서는 반복이 더욱 명시적으로 드러난다. 2막은 1막의 변주 형태로 거의 동일하게 반복되며, 인물들의 대화와 행동도 반복적 패턴을 보인다. 이러한 반복은 강한 부조리성을 드러냄으로써 역으로 존재와 삶에 새로운 인식을 갖게 하는 역할을 가진다.</p>
+<h2 id="육체성과-현재성의-강조" class="heading">육체성과 현재성의 강조</h2>
+<p>두 작품 모두 추상적 정신보다 구체적 육체를 강조한다. 뫼르소는 마리의 육체에 대한 감각적 반응, 태양의 열기에 대한 생리적 반응 등을 통해 현재의 순간에 몰입한다. 이는 카뮈가 강조한 "비록 비천한 것일지라도 육체는 나의 유일한 확신이다"라는 철학적 입장을 반영한다.
+『고도를 기다리며』에서도 두 인물의 구두, 모자, 음식 등에 대한 집착은 구체적 물질성에 대한 관심을 보여준다. 이들의 놀이는 대부분 육체적 동작을 포함하며, 광대놀음의 형태를 띤다. 이는 형이상학적 영혼보다 현실적 육체의 중요성을 강조하는 부조리 철학의 특징이다.</p>
+<h2 id="신의-부재와-세속적-구원의-거부" class="heading">신의 부재와 세속적 구원의 거부</h2>
+<p>두 작품 모두 전통적인 종교적 구원을 거부한다. 뫼르소는 사제를 거부하며, 『고도를 기다리며』에서 고도는 신적 존재로 해석되지만 결코 나타나지 않는다. 이는 "신은 죽었다"는 니체의 선언 이후 전통적 가치체계가 붕괴된 현대인의 상황을 반영한다.
+그러나 이러한 신의 부재는 절망이 아니라 새로운 가능성의 출발점이 된다. 카뮈는 실존철학자들이 부조리를 "신격화하고 자신을 짓누르고 있는 것 속에서 희망의 이유를 발견한다"고 비판하며, 초월적 구원 대신 현실적 삶의 긍정을 주장했다.</p>
+<h2 id="창조와-예술의-역할" class="heading">창조와 예술의 역할</h2>
+<p>카뮈는 부조리한 세계에서 "창조"를 중요한 대응 방식으로 제시한다. "부조리한 즐거움의 전형은 다름 아닌 창조이다"라고 말하며, 창조를 통해 부조리 속에서도 삶의 의미를 발견할 수 있다고 주장했다. 이러한 창조는 새로운 세계를 만드는 것이 아니라 "부조리의 세계 속으로 침투하여 그 세계의 의미를 다시 발견해내는 반복의 작업"이다.
+베케트의 작품 자체도 이러한 창조의 예이다. 전통적인 극의 구조를 해체하고 새로운 연극 언어를 창조함으로써 부조리한 현대인의 조건을 예술적으로 형상화했다. 이는 "설명하고 해결하는 것이 아니라 실감하고 묘사하는 것"이라는 카뮈의 예술관과 일치한다.</p>
+<h2 id="현대적-의미와-철학적-유산" class="heading">현대적 의미와 철학적 유산</h2>
+<p>카뮈와 베케트의 부조리 철학은 현대에도 여전히 유효한 통찰을 제공한다. 전통적 가치체계의 붕괴, 의사소통의 위기, 소외와 고립의 증가 등 현대 사회의 특징들은 이들이 그린 부조리한 인간의 조건과 놀랍도록 유사하다.
+그러나 이들의 철학은 단순한 허무주의나 염세주의가 아니다. 오히려 절망적 상황에서도 삶을 긍정하고 계속 나아가려는 인간의 의지를 강조한다. 뫼르소가 마지막까지 삶에 대한 열정을 잃지 않는 것, 블라디미르와 에스트라공이 끝없는 기다림 속에서도 놀이를 계속하는 것은 모두 이러한 긍정적 의지의 표현이다.
+또한 이들의 작품은 기존의 철학과 문학의 경계를 해체하고 새로운 사유의 지평을 열었다. 추상적 개념이 아닌 구체적 상황과 감각을 통해 철학적 진리에 접근하는 방식은 이후 포스트모던 사상에도 큰 영향을 미쳤다.
+결론적으로 카뮈의 『이방인』과 베케트의 『고도를 기다리며』에 나타난 부조리 철학은 20세기 인간 조건의 핵심을 포착한 동시에, 그러한 조건을 극복하려는 인간의 끈질긴 의지를 보여준다. 의미의 부재 속에서도 의미를 창조하려는 노력, 절망적 상황에서도 삶을 지속하려는 의지, 그리고 부조리한 현실을 직시하면서도 그것을 넘어서려는 인간의 존재론적 용기야말로 이들 작품이 전하는 궁극적 메시지일 것이다.</p>]]>
     </content:encoded>
   </item>
     </channel>

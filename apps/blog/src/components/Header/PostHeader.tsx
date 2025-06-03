@@ -15,7 +15,6 @@ export function PostHeader() {
       </H3>
       <ButtonWrapper>
         <ThemeSwitch />
-        <KBarToggleButton />
       </ButtonWrapper>
     </Header>
   );
