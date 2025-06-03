@@ -7,7 +7,7 @@
   - '**/*.spec.{js,jsx,ts,tsx}'
 
 ci:
-  - .github/workflows/CI.yml
+  - .github/workflows/commit.yml
 
 workflow:
   - .github/workflows/*
